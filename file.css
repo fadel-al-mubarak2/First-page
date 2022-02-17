@@ -46,6 +46,5 @@ h2{
 }
 
 .thirdDiv{
-    border-bottom: 5px;
-    border-color:solid white;
+    border-bottom: 5px solid white;
 }
