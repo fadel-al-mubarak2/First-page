@@ -42,7 +42,8 @@ button{
 h2{
     display: block;
     text-align: center;
-    color: aliceblue;   
+    color: aliceblue;
+    line-break: normal;   
 }
 
 .thirdDiv{
