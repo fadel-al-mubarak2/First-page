@@ -36,13 +36,18 @@ button{
     margin-bottom: 2px;
     margin-left: 2px;
     margin-right: 2px;
+    padding: 2%;
 }
 
 
 h2{
     display: block;
-    text-align: center;
+    text-align: left;
     color: aliceblue;
     line-break: normal;   
-    border-bottom: 3px solid gray;
+    margin-bottom: 3px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-bottom: 2%;
+    border-bottom: 2px solid gray;
 }
